@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reda Moutaouakkil</h1>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNzM20yd3lweGpycDd6OWM5Ynk4c3JzanhvMm5pdHZodTIyaTRrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4jdce7dDDCfc4NQMu/giphy.gif"height="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNzM20yd3lweGpycDd6OWM5Ynk4c3JzanhvMm5pdHZodTIyaTRrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4jdce7dDDCfc4NQMu/giphy.gif"height="600">
 <h3 align="center">Passionate about Web Development and Cybersecurity 👨‍💻 | Student at 1337 Ben Guerir</h3>
 
 - 🔭 I’m now studying **software engineering**
