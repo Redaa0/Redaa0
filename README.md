@@ -1,6 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNzM20yd3lweGpycDd6OWM5Ynk4c3JzanhvMm5pdHZodTIyaTRrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4jdce7dDDCfc4NQMu/giphy.gif" alt="MasterHead" width="1000" height="500">
 <h1 align="center">Hey there 👋, I'm Reda Moutaouakkil</h1>
 <h3 align="center">Passionate about Web Development and Cybersecurity 👨‍💻👨‍💻 | Student at 1337 Ben Guerir</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p1bDg5azd0ZGx4eWc4Mmp5OGpoM3p4ZGp6eXBtbTQ1YjVheTFoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fIFF9w3HsfdtCw6Dy4/giphy.gif">
 
 - 🔭 I’m now studying **software engineering**
 
